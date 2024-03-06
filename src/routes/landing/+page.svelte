@@ -104,7 +104,7 @@
                 doloremque quae.
             </p>
         </div>
-        <img src="https://placehold.co/400x400" class="rounded-md" />
+        <img src="https://placehold.co/400x400" class="rounded-md" alt="img" />
     </div>
 
     <!-- reviews -->
@@ -362,7 +362,7 @@
     <div class="bg-black black-bleed">
         <div class="grid grid-cols-4 py-5">
             <div>
-                <img src="/logo.png" class="h-16" />
+                <img src="/logo.png" class="h-16" alt="img" />
                 <p class="text-gray-400 mt-3">
                     Description of website what's the main objectives, slogan,
                     goals

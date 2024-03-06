@@ -4,6 +4,7 @@
         { href: "qr-component", text: "QR Component" },
         { href: "notification", text: "Notification Page" },
         { href: "landing", text: "Landing Page" },
+        { href: "expandable", text: "Expand Able Divs" },
     ];
 </script>
 
